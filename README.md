@@ -17,9 +17,9 @@ Ce programme en langage C permet de calculer les moyennes des différentes Unit�
    ```
 
 3. **Exécuter le programme:**
-```bash
-./moyenne
-```
+   ```bash
+   ./moyenne
+   ```
 
 ## Crédits
 Ce programme a été réaliser par Moncef STITI (@stiti).
